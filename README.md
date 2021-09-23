@@ -1,2 +1,2 @@
 # Sistema de Notas de Provas - Estudo
- Sistema para incluir, buscar, remover e calcular médias de alunos de uma escola em C++
+ Sistema para incluir, buscar, alterar e remover notas de alunos de uma escola em C++
